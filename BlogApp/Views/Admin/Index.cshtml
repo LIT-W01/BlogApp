@@ -1,0 +1,22 @@
+﻿<form method="POST" action="addpost">
+    <h1>New Post</h1>
+    <div class="form-group">
+        <input type="text" name="Title" class="form-control" placeholder="Title"/>
+    </div>
+    <div class="form-group">
+        <textarea class="form-control" rows="20" name="text"></textarea>
+    </div>
+    <div class="form-group">
+        <input style="width: 150px;" type="text" data-role="tagsinput" name="tags" id="tags"/>
+    </div>
+    <button class="btn btn-danger btn-lg">Submit</button>
+</form>
+
+@section css{
+    <link href="/Content/css/bootstrap-tagsinput.css" rel="stylesheet" />
+}
+
+@section scripts {
+    <script src="/Content/js/bootstrap-tagsinput.min.js"></script>
+    <script src="/Content/js/newpost.js"></script>
+}

@@ -1,0 +1,5 @@
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\BlogApp\BlogApp.Data\bin\Debug\BlogApp.Data.dll
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\BlogApp\BlogApp.Data\bin\Debug\BlogApp.Data.pdb
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.csprojResolveAssemblyReference.cache
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.dll
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.pdb
